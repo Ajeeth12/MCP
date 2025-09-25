@@ -1,0 +1,7 @@
+mcp[cli]
+python-dotenv
+requests
+openai
+fastmcp
+mcp-server
+mcp[dev]
